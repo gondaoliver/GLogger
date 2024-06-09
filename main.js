@@ -6,7 +6,6 @@ require("dotenv").config();
 const { createLogger, format, transports } = require('winston');
 const { combine, timestamp, printf } = format;
 const moment = require('moment-timezone');
-const schedule = require('node-schedule');
 
 const client = new Client({
     intents: [
