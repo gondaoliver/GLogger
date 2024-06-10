@@ -1,11 +1,11 @@
 <div align="center">
 	<br/>
 	<p>
-		<a href="https://discord.gg/QteMdzVXBy"><img src="https://beniiplayz.hu/glogger/emblem.svg" width="192" alt="glogger" /></a>
+		<a href="https://discord.gg/QteMdzVXBy" target="_blank"><img src="https://beniiplayz.hu/glogger/emblem.svg" width="192" alt="glogger" /></a>
 	</p>
 	<p>
-		<a href="https://discord.gg/QteMdzVXBy"><img src="https://img.shields.io/discord/1244158286153121883?label=discord&color=5865F2&logo=discord&logoColor=white" alt="discord server" /></a>
-		<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/badge/npm-v1.3-violet" alt="npm version" /></a>
+		<a href="https://discord.gg/QteMdzVXBy" target="_blank"><img src="https://img.shields.io/discord/1244158286153121883?label=discord&color=5865F2&logo=discord&logoColor=white" alt="discord server" /></a>
+		<a href="https://discord.gg/QteMdzVXBy" target="_blank"><img src="https://img.shields.io/badge/glogger-v1.3-violet" alt="glogger version" /></a>
 	</p>
 </div>
 
