@@ -1,7 +1,7 @@
 <div align="center">
 	<br/>
 	<p>
-		<a href="https://discord.js.org"><img src="https://beniiplayz.hu/glogger/emblem.svg" width="192" alt="glogger" /></a>
+		<a href="https://discord.gg/QteMdzVXBy"><img src="https://beniiplayz.hu/glogger/emblem.svg" width="192" alt="glogger" /></a>
 	</p>
 	<p>
 		<a href="https://discord.gg/QteMdzVXBy"><img src="https://img.shields.io/discord/1244158286153121883?label=discord&color=5865F2&logo=discord&logoColor=white" alt="discord server" /></a>
